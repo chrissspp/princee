@@ -1,5 +1,3 @@
-**File 1: layout.html**
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
