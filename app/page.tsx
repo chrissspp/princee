@@ -1,6 +1,4 @@
-**File 2: page.html**
-
-```html
+``html
 <section class="mb-8">
     <h2 class="text-3xl font-semibold  mb-4">Welcome!</h2>
     <p class="text-gray-700 ">
@@ -26,3 +24,4 @@
     </ul>
 </section>
 
+    
